@@ -1,0 +1,15 @@
+div {
+    font: italic;
+    left: 0;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(240, 255, 255, 0.2);
+}
+
+body {
+    background-image:url('https://78.media.tumblr.com/35c2639bd9e7f5285be5eb5631ad9189/tumblr_pa8r7awb0H1uvsi7jo2_1280.jpg')
+}
